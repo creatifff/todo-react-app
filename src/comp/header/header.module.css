@@ -1,0 +1,9 @@
+.header {
+    color: white;
+    width: 100%;
+}
+
+.nav {
+    display: flex;
+    gap: 10px;
+}
